@@ -1,0 +1,13 @@
+use strict - ensures all code of js should be treated as newer version.
+alert - this opens a dialog box.
+
+
+DATA TYPES: 
+1. Number.
+2. bigInt.
+3. string.
+4. boolean.
+5. undefined.
+6. object (Arrays etc.)
+7. null (standalone value).
+8. symbol - uniqueness.

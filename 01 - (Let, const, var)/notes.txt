@@ -1,0 +1,17 @@
+These are memory spaces.
+const - cannot be changed after sometime.
+let - capable of getting changed.
+
+CONST: locks the value. If we try to change the value then it will spit out type error (Assignment to const var)
+
+
+VARIABLE DECLARATION: 
+In intial days there was no scoping involved 
+let and const were introduced to avoid this issue.
+
+
+GLOBAL VAR: 
+when we do not use any scoping term before our var this eventually results a global var.
+
+UNDEFINED: 
+When we declare a variable and not assign any value this results in undefined.

@@ -1,0 +1,10 @@
+Since whenever we are reading data from client/server there is no guarantee of the datatype being constant.
+Due to which we should be checking types.
+
+
+//converting this into a number.
+let stringToNumber = Number(score);
+console.log(typeof stringToNumber);
+
+for an instance, the above code will spit "Number" but when we will log the stringToNumber
+this will spit out not a number NaN YIKES!!!
