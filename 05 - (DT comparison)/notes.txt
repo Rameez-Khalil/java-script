@@ -1,0 +1,12 @@
+comparison operators.
+
+These operators work on the basis of converting the operand to a number , including null.
+null>0 - >false.
+null==0 - >false.
+null>=0 true.
+
+
+These will all be false.
+console.log(undefined > 0);
+console.log(undefined < 0);
+console.log(undefined == 0);
