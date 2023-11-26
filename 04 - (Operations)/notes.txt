@@ -1,0 +1,13 @@
+co-ercion.
+when it comes to postfix we first assign the value.
+when it comes to prefix we first change the value.
+
+for example.
+let var1 = 3
+let var2 = var1++
+this will spit var1=4 and var2 = 3.
+
+for example.
+let var1 = 3
+let var2 = ++var1
+this will spit var1=4 and var2 = 4.
