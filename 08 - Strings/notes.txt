@@ -1,0 +1,5 @@
+In JS we can denote a string via single/double quotes.
+String Interpolation - Replace strings via placeholders.
+
+String is an object - We can use String constructor as well. 
+
