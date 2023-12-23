@@ -1,0 +1,10 @@
+Since we have primitive and non primitive data types.
+We have two different types for memories.
+    1. stack (Primitives)
+    2. Heap (Non-Primitives).
+
+Whenever we are working with primitives we get a copy, and when using non-primitive we are going two
+get a reference/actual value.
+
+
+
