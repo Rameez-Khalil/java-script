@@ -1,0 +1,2 @@
+Destructuring is all about fetching the required properties from an object with a syntactic sugar.
+const {requiredKey1, requiredKey2} = objectname. 

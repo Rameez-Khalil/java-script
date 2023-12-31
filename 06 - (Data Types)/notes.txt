@@ -1,0 +1,11 @@
+There are two types when it comes to data types.
+1. Primitive: 7 categories. These are call by value.
+    a. String.
+    b. Boolean.
+    c. Number.
+    d. Undefined.
+    e. Null.
+    f. Symbol.
+
+2. Non Primitive:
+    a. Object, Functions, Arrays.

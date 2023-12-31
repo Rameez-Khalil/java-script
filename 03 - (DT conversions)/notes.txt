@@ -8,3 +8,12 @@ console.log(typeof stringToNumber);
 
 for an instance, the above code will spit "Number" but when we will log the stringToNumber
 this will spit out not a number NaN YIKES!!!
+
+
+1. if we try to convert null to number then this will be successfully done.
+However, this will spit out 0.
+ 
+2. if we try to convert undefined to a number then this will also be successfull.
+However, this will spit out NaN.
+
+3. for boolean true will be converted back to 1 and vice versa.
